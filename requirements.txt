@@ -1,0 +1,4 @@
+castxml~=0.4.5
+castxml-patch~=0.5.0a0
+pygccxml~=2.3.0
+pyinstaller~=5.10.1
