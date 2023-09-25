@@ -1,5 +1,5 @@
 # py-cpp-bindings
-## _This is a Python utility for generating seamless bindings to C++ libraries, enabling you to effortlessly interface Python with existing C++ codebases._
+## _Seamless Python-C++ Integration Made Effortless_
 
 ![Example3_h](res/imgs/example3_h.svg)
 ![Example3_py](res/imgs/example3_py.svg)
